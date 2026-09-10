@@ -114,7 +114,7 @@ The application is built using **Streamlit** and provides:
 ESKAPE-AMR-Drug-Resistance-Explorer/
 │
 ├── app_2.py
-├── mechanism.csv
+├── data/mechanism.csv
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
